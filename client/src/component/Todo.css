@@ -1,0 +1,38 @@
+.inputContainer {
+    
+    align-items:center;
+    border-width: 10px;
+    border-radius: 7px;
+    height: 100px;
+    width:100vh;
+    background-color: rgb(100, 99, 99);
+    align-self: center;
+    margin-left: 50vh;
+    display:flex;
+   
+}
+
+
+.name{
+    height: 30px;
+    width:200px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    margin-left:10px;
+    font-size: 20px;
+}
+.descp{
+    height: 30px;
+    width:200px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+
+.inputName{
+    margin-right: 40px;
+}
+.button{
+   margin-left: 25vh;
+   
+}

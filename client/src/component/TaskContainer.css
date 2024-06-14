@@ -1,0 +1,35 @@
+.taskConatiner{
+    align-items:center;
+    border-width: 10px;
+    border-radius: 7px;
+    height:auto;
+    width:100vh;
+    background-color: rgb(100, 99, 99);
+    align-self: center;
+    margin-left: 50vh;
+    margin-top: 20px;
+    padding-bottom:10px;
+    
+}
+.task{
+    margin:15px;
+}
+.edit{
+    padding-top: 20px;
+    margin:15px;
+    justify-content:space-between;
+}
+.singletask{
+    display:flex;
+    flex-direction: row;
+    justify-content:space-between;  
+}
+.divider{  
+    height:2px;
+    width:100%;
+    border-top:2px solid rgb(58, 57, 57);
+}
+.linetext{
+    text-decoration: line-through solid black;
+    color: gray;
+}
